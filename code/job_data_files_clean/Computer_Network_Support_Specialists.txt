@@ -1,0 +1,7 @@
+Job Title: Computer Network Support Specialists
+Job Description: Key Responsibilities: Provide first-level support for network issues,  Assist in VPN configurations,  Monitor and log network incidents,  Escalate complex issues to senior engineers
+Market Intelligence Salary: $79,610
+Market Demand Status: High Demand Field
+Trending Tools: Document management software, Web platform development software, Operating system software, Data base user interface and query software, Internet directory services software, Development environment software, Enterprise resource planning ERP software, Spreadsheet software
+Required Skills: Routing Basics,  OSPF,  BGP (Intro),  VPN Setup,  Firewall Basics,  SolarWinds
+Base Data Source Salary: $79,610

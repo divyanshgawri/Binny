@@ -1,0 +1,7 @@
+Job Title: Civil Engineers
+Job Description: Key Responsibilities: Design scalable cloud infrastructure,  Automate deployments using Terraform,  Implement CI/CD pipelines,  Collaborate on security compliance projects
+Market Intelligence Salary: $107,050
+Market Demand Status: High Demand Field
+Trending Tools: Document management software, File versioning software, Computer aided design CAD software, Development environment software, Geographic information system, Enterprise application integration software, Data base user interface and query software, Enterprise resource planning ERP software
+Required Skills: AWS,  Azure,  Kubernetes,  Terraform,  Python scripting,  CI/CD pipelines,  Cloud security compliance
+Base Data Source Salary: $107,050

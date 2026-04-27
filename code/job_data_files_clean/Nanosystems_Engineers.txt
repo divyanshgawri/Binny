@@ -1,0 +1,7 @@
+Job Title: Nanosystems Engineers
+Job Description: Key Responsibilities: Assist in system installation,  Perform basic configuration tasks,  Support monitoring activities,  Troubleshoot hardware/software issues,  Document system changes
+Market Intelligence Salary: $121,720
+Market Demand Status: High Demand Field
+Trending Tools: Data base management system software, Computer aided design CAD software, Operating system software, Spreadsheet software, Office suite software, Presentation software, Project management software, Process mapping and design software
+Required Skills: Windows Server,  Linux,  VMware,  Networking Basics,  Python
+Base Data Source Salary: $121,720

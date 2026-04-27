@@ -1,0 +1,7 @@
+Job Title: Information Security Analysts
+Job Description: Key Responsibilities: Assist in security audits,  Help update security tools,  Support SOC team with monitoring,  Participate in vulnerability management
+Market Intelligence Salary: $127,730
+Market Demand Status: High Demand Field
+Trending Tools: Web platform development software, Data base management system software, Data base user interface and query software, Storage networking software, Cloud-based management software, Expert system software, Development environment software, Business intelligence and data analysis software
+Required Skills: Python,  Firewall Basics,  GDPR Basics,  Nessus,  Snort
+Base Data Source Salary: $127,730

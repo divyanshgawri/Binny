@@ -1,0 +1,7 @@
+Job Title: Database Architects
+Job Description: Design strategies for enterprise databases, data warehouse systems, and multidimensional networks. Set standards for database operations, programming, query processes, and security. Model, design, and construct large relational databases or data warehouses. Create and optimize data models for warehouse infrastructure and workflow. Integrate new systems with existing warehouse structure and refine system performance and functionality.
+Market Intelligence Salary: $142,620
+Market Demand Status: High Demand Field
+Trending Tools: Document management software, Web platform development software, Data base management system software, Data base user interface and query software, Storage networking software, Cloud-based management software, Expert system software, Development environment software
+Required Skills: Reading Comprehension, Active Listening, Writing, Speaking, Critical Thinking, Active Learning, Monitoring, Complex Problem Solving, Operations Analysis, Programming, Judgment and Decision Making, Systems Analysis, Systems Evaluation
+Base Data Source Salary: $142,620

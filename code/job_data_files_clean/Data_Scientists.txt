@@ -1,0 +1,7 @@
+Job Title: Data Scientists
+Job Description: Key Responsibilities: Drive end-to-end data science initiatives,  Implement ML pipelines and advanced models,  Mentor and lead a team,  Present actionable insights to business stakeholders,  Ensure solutions deliver measurable business impact
+Market Intelligence Salary: $124,590
+Market Demand Status: High Demand Field
+Trending Tools: Business intelligence and data analysis software, Data base user interface and query software, Storage networking software, Data base management system software, Development environment software, Project management software, Content workflow software, Operating system software
+Required Skills: Python,  R,  SQL,  Java/Scala,  Classification,  Regression,  NLP,  Reinforcement Learning,  Ensemble methods,  Spark,  Hadoop,  AWS,  Azure,  ETL automation,  Feature Engineering,  Tableau,  PowerBI,  Jupyter,  Git
+Base Data Source Salary: $124,590

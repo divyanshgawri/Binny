@@ -1,0 +1,7 @@
+Job Title: Network and Computer Systems Administrators
+Job Description: Install, configure, and maintain an organization's local area network (LAN), wide area network (WAN), data communications network, operating systems, and physical and virtual servers. Perform system monitoring and verify the integrity and availability of hardware, network, and server resources and systems. Review system and application logs and verify completion of scheduled jobs, including system backups. Analyze network and server resource consumption and control user access. Install and upgrade software and maintain software licenses. May assist in network modeling, analysis, planning, and coordination between network and data communications hardware and software.
+Market Intelligence Salary: $101,190
+Market Demand Status: High Demand Field
+Trending Tools: Document management software, Web platform development software, Data base management system software, Data base user interface and query software, Storage networking software, Cloud-based management software, Expert system software, Development environment software
+Required Skills: Reading Comprehension, Active Listening, Writing, Speaking, Critical Thinking, Active Learning, Monitoring, Complex Problem Solving, Operations Analysis, Programming, Operations Monitoring, Troubleshooting, Quality Control Analysis, Judgment and Decision Making, Systems Analysis, Systems Evaluation, Time Management
+Base Data Source Salary: $101,190

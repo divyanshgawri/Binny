@@ -1,0 +1,7 @@
+Job Title: Robotics Engineers
+Job Description: Key Responsibilities: Assist in robot programming using Python and C++,  Support development using ROS and MATLAB,  Help design mechanical parts using SolidWorks or AutoCAD,  Implement basic control systems and motor control,  Work on embedded system projects using Arduino/Raspberry Pi,  Integrate sensors and actuators for robotic applications,  Collaborate with team members on small projects,  Document experiments and learning outcomes
+Market Intelligence Salary: $121,720
+Market Demand Status: High Demand Field
+Trending Tools: Data base user interface and query software, Content workflow software, Computer aided design CAD software, Development environment software, Object or component oriented development software, File versioning software, Web platform development software, Operating system software
+Required Skills: Python basics,  C++ basics,  MATLAB basics,  ROS basics,  SolidWorks,  AutoCAD,  PID controllers,  Motor control basics,  Arduino basics,  Raspberry Pi basics,  Sensors basics (LIDAR, ultrasonic, infrared),  Servo motors basics,  Kinematics,  Dynamics,  Linear algebra,  Problem solving,  Communication,  Teamwork,  Adaptability
+Base Data Source Salary: $121,720

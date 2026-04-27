@@ -1,0 +1,7 @@
+Job Title: Web Developers
+Job Description: Key Responsibilities: Assist in front-end development tasks,  Write basic HTML, CSS, and JavaScript code,  Develop small components using React or Angular,  Support backend API integration,  Participate in version control with Git/GitHub,  Learn responsive design principles,  Assist in testing and debugging
+Market Intelligence Salary: $98,790
+Market Demand Status: High Demand Field
+Trending Tools: Document management software, Video creation and editing software, Graphics or photo imaging software, Desktop publishing software, Web platform development software, Data base management system software, Data base user interface and query software, Storage networking software
+Required Skills: HTML5,  CSS3,  JavaScript,  React basics,  Angular basics,  Node.js basics,  PHP basics,  Git,  GitHub basics,  MySQL basics,  MongoDB basics,  RESTful APIs,  AJAX,  Responsive Design,  UI/UX fundamentals
+Base Data Source Salary: $98,790

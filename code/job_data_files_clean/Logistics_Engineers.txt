@@ -1,0 +1,7 @@
+Job Title: Logistics Engineers
+Job Description: Key Responsibilities: Assist in robot programming using Python and C++,  Support development using ROS and MATLAB,  Help design mechanical parts using SolidWorks or AutoCAD,  Implement basic control systems and motor control,  Work on embedded system projects using Arduino/Raspberry Pi,  Integrate sensors and actuators for robotic applications,  Collaborate with team members on small projects,  Document experiments and learning outcomes
+Market Intelligence Salary: $87,600
+Market Demand Status: High Demand Field
+Trending Tools: Computer aided design CAD software, Object or component oriented development software, Data base user interface and query software, Spreadsheet software, Office suite software, Business intelligence and data analysis software, Presentation software, Project management software
+Required Skills: Python basics,  C++ basics,  MATLAB basics,  ROS basics,  SolidWorks,  AutoCAD,  PID controllers,  Motor control basics,  Arduino basics,  Raspberry Pi basics,  Sensors basics (LIDAR, ultrasonic, infrared),  Servo motors basics,  Kinematics,  Dynamics,  Linear algebra,  Problem solving,  Communication,  Teamwork,  Adaptability
+Base Data Source Salary: $87,600

@@ -1,0 +1,7 @@
+Job Title: Information Security Engineers
+Job Description: Key Responsibilities: Assist in security audits,  Help update security tools,  Support SOC team with monitoring,  Participate in vulnerability management
+Market Intelligence Salary: $116,700
+Market Demand Status: High Demand Field
+Trending Tools: Cloud-based management software, Data base user interface and query software, Expert system software, Operating system software, Project management software, Content workflow software, Switch or router software, Development environment software
+Required Skills: Python,  Firewall Basics,  GDPR Basics,  Nessus,  Snort
+Base Data Source Salary: $116,700
