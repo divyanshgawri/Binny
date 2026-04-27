@@ -1,0 +1,21 @@
+# Ignore Virtual Environment
+env/
+venv/
+__pycache__/
+*.pyc
+
+# Ignore Large Data & Databases
+*.csv
+*.xlsx
+*.db
+
+
+archive/
+code/data/onet_kaggle/db_29_0_text
+# Ignore local OS files
+.DS_Store
+
+.env.env
+env/
+*.ipynb
+.ipynb_checkpoints
