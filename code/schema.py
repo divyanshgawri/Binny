@@ -78,7 +78,8 @@ from langchain_core.messages import HumanMessage, AIMessage
 from langchain_core.runnables import RunnablePassthrough,RunnableLambda
 from langchain_core.output_parsers import StrOutputParser
 from langchain_core.runnables.history import RunnableWithMessageHistory
-
+from dotenv import load_dotenv
+load_dotenv() # This loads the key from your .env file
 # --- CONFIGURATION ---
 # Replace with your actual key
 GROQ_API_KEY = os.getenv("GROQ_API_KEY")

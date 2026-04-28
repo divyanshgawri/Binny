@@ -136,6 +136,8 @@ import sqlite3
 import markdown
 from langchain_core.prompts import ChatPromptTemplate
 import streamlit.components.v1 as components
+from dotenv import load_dotenv
+load_dotenv() # This loads the key from your .env file
 # ----------------------------
 # 1. CONFIGURATION & SECRETS
 # ----------------------------
