@@ -74,7 +74,7 @@ Getting the app running locally takes under five minutes.
 
 ```bash
 git clone https://github.com/divyanshgawri/Binny.git
-cd career-guidance-resume-builder
+cd Code
 ```
 
 **2. Set up your environment**
