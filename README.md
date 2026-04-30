@@ -21,7 +21,7 @@ Finding accurate career advice and formatting a resume shouldn't require expensi
 
 | Source Transparency (Proof Widget) | Data Vectorization |
 | :---: | :---: |
-| ![Sources](sources_widget.png) | ![Vectorization](faiss_vectorization.png) |
+| ![Sources](source_widget.png) | ![Vectorization](faiss_vectorization.png) |
 
 ---
 
