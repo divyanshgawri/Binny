@@ -17,11 +17,11 @@ Finding accurate career advice and formatting a resume shouldn't require expensi
 
 | Chat Interface & Career Advice | Live Resume PDF Rendering |
 | :---: | :---: |
-| ![Chat UI](docs/screenshots/chat_interface.png) | ![Resume Preview](docs/screenshots/live_resume.png) |
+| ![Chat UI](chat_interface.png) | ![Resume Preview](live_resume.png) |
 
-| Source Transparency (Proof Widget) | System Architecture |
+| Source Transparency (Proof Widget) | Data Vectorization |
 | :---: | :---: |
-| ![Sources](docs/screenshots/sources_widget.png) | ![Architecture](docs/screenshots/architecture.png) |
+| ![Sources](sources_widget.png) | ![Vectorization](faiss_vectorization.png) |
 
 ---
 
