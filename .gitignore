@@ -8,14 +8,14 @@ __pycache__/
 *.csv
 *.xlsx
 *.db
-
+*.json
 
 archive/
 code/data/onet_kaggle/db_29_0_text
 # Ignore local OS files
 .DS_Store
 
-.env.env
+code/.env
 env/
 *.ipynb
 .ipynb_checkpoints
